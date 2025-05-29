@@ -13,7 +13,7 @@ You got a [[ROOT|Homepage]] to layout important things and a [[TODO]] list.
 
 The vault is configured to sort pasted attachments, your daily and digital notes automatically. Keep your vault organised and clean!
 
-It also uses the Iconic extension to change the icons of your notes. See the [[TODO]] note or the [[Dataview Examples|Overview Notes]] for example.
+It also uses the Iconic and File Color extension to change the icons and colors of your notes in the side pane. See the [[TODO]] note or the [[Dataview Examples|Overview Notes]] for example.
 
 > [!Tip]
 > The most important thing in this repository might be the `.obsidian` directory with all configurations I made!
