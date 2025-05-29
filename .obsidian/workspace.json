@@ -117,6 +117,42 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Some nasty AI summary",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"XX - AI Slop/Some nasty AI summary.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Some nasty AI summary\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":317},\"to\":{\"line\":2,\"ch\":317}}}"
+                },
+                {
+                  "title": "Field Notes Concept",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"11 - Field Notes/Field Notes Concept.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Field Notes Concept\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
+                },
+                {
+                  "title": "Atomic notes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"33 - Atomic Notes/Atomic notes.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Atomic notes\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
+                },
+                {
+                  "title": "Flashcards",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"44 - Anki/Flashcards.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Flashcards\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
+                },
+                {
+                  "title": "A schedule for your classes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"55 - Schedule/A schedule for your classes.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"A schedule for your classes\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
+                },
+                {
+                  "title": "README",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"README\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":63},\"to\":{\"line\":10,\"ch\":63}}}"
+                },
+                {
                   "title": "TODO",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"TODO.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"TODO\"}",
@@ -151,12 +187,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "88 - Garbage collect/Where I collect stuff from outside my vault.md",
                 "mode": "source",
-                "source": true
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Where I collect stuff from outside my vault"
             }
           }
         ],
@@ -489,9 +526,15 @@
   },
   "active": "7ab4cc81e6984800",
   "lastOpenFiles": [
+    "XX - AI Slop/Some nasty AI summary.md",
+    "88 - Garbage collect/Where I collect stuff from outside my vault.md",
+    "11 - Field Notes/Field Notes Concept.md",
+    "33 - Atomic Notes/Atomic notes.md",
+    "44 - Anki/Flashcards.md",
+    "55 - Schedule/A schedule for your classes.md",
+    "README.md",
     "TODO.md",
     "00 - Daily Notes/2025-05-29.md",
-    "README.md",
     "BIBLIOGRAPHY.md",
     "TERMINOLOGY.md",
     "ROOT.md",
@@ -529,11 +572,6 @@
     "Abelsche Gruppe.md",
     "Vektoren.md",
     "Definition Gruppe.md",
-    "O-Tutorial.md",
-    "Satz von l’Hôpital.md",
-    "Klausurtermine.md",
-    "00 - Daily Notes/2025-05-21.md",
-    "00 - Daily Notes/2025-05-13.md",
     "Untitled.canvas",
     "Test canvas.canvas"
   ]

@@ -1,0 +1,1 @@
+Atomic note-taking is **a method of organizing information into independent, atomic units**. The aim is to build complex ideas by combining atomic parts and make the resulting ideas reusable by breaking them down into atomic units.
