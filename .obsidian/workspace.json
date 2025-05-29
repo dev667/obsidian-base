@@ -117,6 +117,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "TODO",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"TODO.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"TODO\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "2025-05-29",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 - Daily Notes/2025-05-29.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"2025-05-29\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "README",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"README\"}",
@@ -139,12 +151,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Daily Notes/2025-05-29.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-05-29"
+              "title": "README"
             }
           }
         ],
@@ -475,14 +487,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4cfa0ea2003e24ff",
+  "active": "7ab4cc81e6984800",
   "lastOpenFiles": [
+    "TODO.md",
+    "00 - Daily Notes/2025-05-29.md",
     "README.md",
     "BIBLIOGRAPHY.md",
     "TERMINOLOGY.md",
     "ROOT.md",
     "77 - Templates/(Template) Daily Note.md",
-    "00 - Daily Notes/2025-05-29.md",
     "66 - Overview/Dataview Examples.md",
     "99 - Attachments/Banners/IIHF Ice Hockey World Championship 2016.gif",
     "99 - Attachments/Banners/Halo_ Infinite - Reticles, Jeff Christy.gif",
@@ -497,7 +510,6 @@
     "99 - Attachments/Banners",
     "99 - Attachments/IIHF Ice Hockey World Championship 2016.gif.crdownload",
     "22 - Digital Notes/Some new notes.md",
-    "TODO.md",
     "22 - Digital Notes/Example note.md",
     "99 - Attachments/IMAGES",
     "99 - Attachments 1",
