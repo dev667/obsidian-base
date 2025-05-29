@@ -27,55 +27,63 @@
       "unsynced": [
         "f048422e87735a2e",
         "c5188942d770449f"
-      ]
+      ],
+      "color": "yellow"
     },
     "11 - Field Notes": {
       "icon": "lucide-notebook-pen",
       "unsynced": [
         "f048422e87735a2e",
         "c5188942d770449f"
-      ]
+      ],
+      "color": "blue"
     },
     "22 - Digital Notes": {
       "icon": "lucide-file-type",
       "unsynced": [
         "f048422e87735a2e",
         "c5188942d770449f"
-      ]
+      ],
+      "color": "green"
     },
     "33 - Atomic Notes": {
       "icon": "lucide-file-type-2",
       "unsynced": [
         "c5188942d770449f"
-      ]
+      ],
+      "color": "cyan"
     },
     "44 - Anki": {
       "icon": "lucide-brain-circuit",
       "unsynced": [
         "f048422e87735a2e",
         "c5188942d770449f"
-      ]
+      ],
+      "color": "orange"
     },
     "55 - Schedule": {
       "icon": "lucide-calendar-fold",
       "unsynced": [
         "f048422e87735a2e",
         "c5188942d770449f"
-      ]
+      ],
+      "color": "red"
     },
     "66 - Overview": {
       "icon": "lucide-file-search-2",
       "unsynced": [
         "f048422e87735a2e",
         "c5188942d770449f"
-      ]
+      ],
+      "color": "purple"
     },
     "77 - Templates": {
       "unsynced": [
         "f048422e87735a2e",
         "c5188942d770449f"
       ],
-      "icon": "templater-icon"
+      "icon": "templater-icon",
+      "color": "pink"
     },
     "88 - Garbage collect": {
       "icon": "links-coming-in",

@@ -14,7 +14,6 @@
   "remove-empty-folders",
   "templater-obsidian",
   "iconic",
-  "obsidian-link-embed",
   "cycle-in-sidebar",
   "darlal-switcher-plus",
   "quick-explorer",
@@ -28,7 +27,6 @@
   "nldates-obsidian",
   "obsidian-image-toolkit",
   "obsidian-banners",
-  "buttons",
   "obsidian-tracker",
   "obsidian-charts",
   "easy-typing-obsidian",
@@ -40,5 +38,7 @@
   "obsidian-excel-to-markdown-table",
   "obsidian-file-color",
   "code-styler",
-  "smart-random-note"
+  "smart-random-note",
+  "obsidian-meta-bind-plugin",
+  "obsidian-outliner"
 ]

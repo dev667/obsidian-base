@@ -1,6 +1,93 @@
 {
-  "cascadeColors": false,
+  "cascadeColors": true,
   "colorBackground": false,
-  "palette": [],
-  "fileColors": []
+  "palette": [
+    {
+      "id": "Ib_xXflfS_VAe1pnlkiRN",
+      "name": "Red",
+      "value": "#ff0000"
+    },
+    {
+      "id": "en0Hg57WKCigAQ2xdjVhN",
+      "name": "Cyan",
+      "value": "#00fbff"
+    },
+    {
+      "id": "afxorbWhRbQSs4t316siR",
+      "name": "Green",
+      "value": "#00ff04"
+    },
+    {
+      "id": "jjCuxqCPBb_3WA83xy3cJ",
+      "name": "Blue",
+      "value": "#3898ff"
+    },
+    {
+      "id": "0FwYCfhbvF8FLwr4FEVOm",
+      "name": "Yellow",
+      "value": "#ffea00"
+    },
+    {
+      "id": "c1JCr3XVBsCFZ16T8-6qf",
+      "name": "Gray",
+      "value": "#525252"
+    },
+    {
+      "id": "tGenjwvnULinrC5WfwuKg",
+      "name": "Lilac",
+      "value": "#a97aff"
+    },
+    {
+      "id": "xYS3SzyrOueXadmYJIQES",
+      "name": "Orange",
+      "value": "#ffa82e"
+    },
+    {
+      "id": "8ZkNE6P9VWNwwRyNz9wwx",
+      "name": "Pink",
+      "value": "#ffb3e4"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "XX - Graveyard",
+      "color": "c1JCr3XVBsCFZ16T8-6qf"
+    },
+    {
+      "path": "XX - AI Slop",
+      "color": "c1JCr3XVBsCFZ16T8-6qf"
+    },
+    {
+      "path": "00 - Daily Notes",
+      "color": "0FwYCfhbvF8FLwr4FEVOm"
+    },
+    {
+      "path": "22 - Digital Notes",
+      "color": "afxorbWhRbQSs4t316siR"
+    },
+    {
+      "path": "33 - Atomic Notes",
+      "color": "en0Hg57WKCigAQ2xdjVhN"
+    },
+    {
+      "path": "55 - Schedule",
+      "color": "Ib_xXflfS_VAe1pnlkiRN"
+    },
+    {
+      "path": "66 - Overview",
+      "color": "tGenjwvnULinrC5WfwuKg"
+    },
+    {
+      "path": "77 - Templates",
+      "color": "8ZkNE6P9VWNwwRyNz9wwx"
+    },
+    {
+      "path": "11 - Field Notes",
+      "color": "jjCuxqCPBb_3WA83xy3cJ"
+    },
+    {
+      "path": "44 - Anki",
+      "color": "xYS3SzyrOueXadmYJIQES"
+    }
+  ]
 }
