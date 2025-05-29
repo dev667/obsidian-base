@@ -1,0 +1,15 @@
+{
+  "baseFontSize": 15,
+  "baseFontSizeAction": true,
+  "monospaceFontFamily": "JetBrains Mono,Fira Code Nerd Fonts",
+  "interfaceFontFamily": "Inter",
+  "textFontFamily": "JetBrains Mono,Fira Code Nerd Fonts",
+  "accentColor": "#5c8ff5",
+  "showViewHeader": true,
+  "showRibbon": true,
+  "enabledCssSnippets": [
+    "img",
+    "Daily Note Themes"
+  ],
+  "theme": "obsidian"
+}

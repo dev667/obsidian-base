@@ -1,0 +1,18 @@
+{
+  "alwaysUpdateLinks": true,
+  "showLineNumber": true,
+  "promptDelete": false,
+  "attachmentFolderPath": "99 - Attachments/IMAGES",
+  "vimMode": false,
+  "showInlineTitle": false,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "newFileLocation": "folder",
+  "newFileFolderPath": "22 - Digital Notes",
+  "useMarkdownLinks": true,
+  "livePreview": false
+}

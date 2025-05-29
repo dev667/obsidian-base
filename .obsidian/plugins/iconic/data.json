@@ -1,0 +1,274 @@
+{
+  "biggerIcons": "on",
+  "clickableIcons": "off",
+  "showAllFileIcons": true,
+  "showAllFolderIcons": true,
+  "minimalFolderIcons": true,
+  "showItemName": "desktop",
+  "biggerSearchResults": "mobile",
+  "maxSearchResults": 50,
+  "colorPicker1": "list",
+  "colorPicker2": "rgb",
+  "uncolorHover": false,
+  "uncolorDrag": false,
+  "uncolorSelect": false,
+  "uncolorQuick": false,
+  "rememberDeletedItems": true,
+  "dialogState": {
+    "iconMode": true,
+    "emojiMode": true,
+    "rulePage": "file"
+  },
+  "appIcons": {},
+  "tabIcons": {},
+  "fileIcons": {
+    "00 - Daily Notes": {
+      "icon": "lucide-sun",
+      "unsynced": [
+        "f048422e87735a2e",
+        "c5188942d770449f"
+      ]
+    },
+    "11 - Field Notes": {
+      "icon": "lucide-notebook-pen",
+      "unsynced": [
+        "f048422e87735a2e",
+        "c5188942d770449f"
+      ]
+    },
+    "22 - Digital Notes": {
+      "icon": "lucide-file-type",
+      "unsynced": [
+        "f048422e87735a2e",
+        "c5188942d770449f"
+      ]
+    },
+    "33 - Atomic Notes": {
+      "icon": "lucide-file-type-2",
+      "unsynced": [
+        "c5188942d770449f"
+      ]
+    },
+    "44 - Anki": {
+      "icon": "lucide-brain-circuit",
+      "unsynced": [
+        "f048422e87735a2e",
+        "c5188942d770449f"
+      ]
+    },
+    "55 - Schedule": {
+      "icon": "lucide-calendar-fold",
+      "unsynced": [
+        "f048422e87735a2e",
+        "c5188942d770449f"
+      ]
+    },
+    "66 - Overview": {
+      "icon": "lucide-file-search-2",
+      "unsynced": [
+        "f048422e87735a2e",
+        "c5188942d770449f"
+      ]
+    },
+    "77 - Templates": {
+      "unsynced": [
+        "f048422e87735a2e",
+        "c5188942d770449f"
+      ],
+      "icon": "templater-icon"
+    },
+    "88 - Garbage collect": {
+      "icon": "links-coming-in",
+      "unsynced": [
+        "f048422e87735a2e",
+        "c5188942d770449f"
+      ]
+    },
+    "99 - Attachments": {
+      "icon": "lucide-paperclip",
+      "unsynced": [
+        "f048422e87735a2e",
+        "c5188942d770449f"
+      ]
+    },
+    "99 - Attachments/IMAGES": {
+      "icon": "lucide-images",
+      "unsynced": [
+        "f048422e87735a2e",
+        "c5188942d770449f"
+      ]
+    },
+    "SCHEDULE/Wochenplaner": {
+      "color": "orange",
+      "unsynced": [
+        "f048422e87735a2e",
+        "c5188942d770449f"
+      ]
+    },
+    "TODO.md": {
+      "icon": "lucide-check-square",
+      "color": "red"
+    },
+    "XX - AI Slop": {
+      "unsynced": [
+        "f048422e87735a2e",
+        "c5188942d770449f"
+      ],
+      "icon": "lucide-brain"
+    },
+    "XX - Graveyard": {
+      "icon": "✝️",
+      "unsynced": [
+        "c5188942d770449f"
+      ]
+    },
+    "a": {
+      "icon": "lucide-award",
+      "unsynced": [
+        "f048422e87735a2e",
+        "c5188942d770449f"
+      ]
+    }
+  },
+  "bookmarkIcons": {},
+  "tagIcons": {},
+  "propertyIcons": {},
+  "ribbonIcons": {},
+  "fileRules": [
+    {
+      "id": "FLsfD",
+      "name": "Math Notes",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "tags",
+          "operator": "includes",
+          "value": "math"
+        }
+      ],
+      "enabled": true,
+      "icon": "math-x-divide-y-2",
+      "color": "blue"
+    },
+    {
+      "id": "wvsHz",
+      "name": "Vault helper",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "tags",
+          "operator": "includes",
+          "value": "vaulthealth"
+        }
+      ],
+      "enabled": true,
+      "icon": "question-mark-glyph",
+      "color": "pink"
+    },
+    {
+      "id": "mmZgy",
+      "name": "PDF Files",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "extension",
+          "operator": "contains",
+          "value": "pdf"
+        },
+        {
+          "source": "path",
+          "operator": "contains",
+          "value": "PDF"
+        }
+      ],
+      "enabled": false,
+      "color": "red"
+    },
+    {
+      "id": "TeAKm",
+      "name": "How to",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "tags",
+          "operator": "includes",
+          "value": "howto"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-code",
+      "color": "purple"
+    },
+    {
+      "id": "aVMg8",
+      "name": "Digital Systems",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "tags",
+          "operator": "includes",
+          "value": "digSys"
+        },
+        {
+          "source": "filename",
+          "operator": "!contains",
+          "value": "ROOT"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-computer",
+      "color": "yellow"
+    },
+    {
+      "id": "je3jS",
+      "name": "Homepage",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "contains",
+          "value": "ROOT"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-goal",
+      "color": "green"
+    },
+    {
+      "id": "eIrbB",
+      "name": "Overview",
+      "match": "any",
+      "conditions": [
+        {
+          "source": "path",
+          "operator": "contains",
+          "value": "66 - Overview"
+        },
+        {
+          "source": "tags",
+          "operator": "includes",
+          "value": "overview"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-view",
+      "color": "purple"
+    },
+    {
+      "id": "b8H2x",
+      "name": "Templates",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "path",
+          "operator": "contains",
+          "value": "88 - Templates"
+        }
+      ],
+      "enabled": true,
+      "icon": "templater-icon",
+      "color": "pink"
+    }
+  ],
+  "folderRules": []
+}
