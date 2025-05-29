@@ -3,6 +3,8 @@ tags:
   - vaulthealth
 ---
 
+# README
+
 About this vault.
 
 This is a base setup to get started with Obsidian. It integrates well into a wide range of workflows, optimizes and prettifies the experience.

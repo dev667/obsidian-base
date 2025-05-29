@@ -118,6 +118,18 @@
                   "title": "README",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"README\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":16},\"to\":{\"line\":13,\"ch\":16}},\"scroll\":0}"
+                },
+                {
+                  "title": "TODO",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"TODO.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"TODO\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":9},\"to\":{\"line\":12,\"ch\":9}},\"scroll\":0}"
+                },
+                {
+                  "title": "README",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"README\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":127.48192662972907}"
                 },
                 {
@@ -143,12 +155,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "55 - Schedule/A schedule for your classes.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "A schedule for your classes"
             }
           }
         ],
@@ -427,6 +439,7 @@
   "active": "38a4d82bd4e16c66",
   "lastOpenFiles": [
     "README.md",
+    "TODO.md",
     "44 - Anki/Flashcards.md",
     "55 - Schedule/A schedule for your classes.md",
     "77 - Templates/(Template) Daily Note.md",
@@ -444,7 +457,6 @@
     "files without tags.md",
     "broken links output.md",
     "create a link.md",
-    "TODO.md",
     "XX - AI Slop/Some nasty AI summary.md",
     "00 - Daily Notes/2025-05-29.md",
     "99 - Attachments/Banners/IIHF Ice Hockey World Championship 2016.gif",
