@@ -15,7 +15,7 @@ cssclasses:
 
 
 
-### Academic notes today:
+### Academic Notes Today:
 ```dataview
 LIST
 WHERE contains(file.tags, "math") OR contains(file.tags, "digSys") OR contains(file.tags, "algoDat")
@@ -23,7 +23,7 @@ AND (file.cday = date(today) OR file.mday = date(today))
 ```
 ---
 
-### Notes created today
+### Notes Created Today
 ```dataview
 LIST  
 WHERE file.cday = date(this.file.name)
@@ -31,7 +31,7 @@ WHERE file.cday = date(this.file.name)
 
 ---
 
-### Notes last edited today:
+### Notes Last Edited Today:
 ```dataview
 LIST  
 WHERE file.mday = date(this.file.name)

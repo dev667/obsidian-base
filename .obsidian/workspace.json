@@ -60,9 +60,99 @@
               "icon": "lucide-file",
               "title": "Flashcards"
             }
+          },
+          {
+            "id": "32bc8d301af29e71",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "TERMINOLOGY",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"TERMINOLOGY.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"TERMINOLOGY\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "BIBLIOGRAPHY",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"BIBLIOGRAPHY.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"BIBLIOGRAPHY\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "README",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"README\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":0}"
+                }
+              ]
+            },
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROOT.md",
+                "mode": "source",
+                "source": true
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "ROOT"
+            }
+          },
+          {
+            "id": "38a4d82bd4e16c66",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "README",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"README\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":127.48192662972907}"
+                },
+                {
+                  "title": "Flashcards",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"44 - Anki/Flashcards.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Flashcards\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "A schedule for your classes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"55 - Schedule/A schedule for your classes.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"A schedule for your classes\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
+                },
+                {
+                  "title": "(Template) Daily Note",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"77 - Templates/(Template) Daily Note.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"(Template) Daily Note\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}},\"scroll\":0}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODO.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "TODO"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -334,27 +424,27 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4cfa0ea2003e24ff",
+  "active": "38a4d82bd4e16c66",
   "lastOpenFiles": [
     "README.md",
+    "44 - Anki/Flashcards.md",
+    "55 - Schedule/A schedule for your classes.md",
+    "77 - Templates/(Template) Daily Note.md",
     "ROOT.md",
-    "XX - Graveyard/Some note.md",
+    "TERMINOLOGY.md",
     "BIBLIOGRAPHY.md",
+    "XX - Graveyard/Some note.md",
     "22 - Digital Notes/Some new notes.md",
     "11 - Field Notes/Field Notes Concept.md",
     "66 - Overview/Dataview Examples.md",
-    "77 - Templates/(Template) Daily Note.md",
     "empty files.md",
-    "44 - Anki/Flashcards.md",
     "88 - Garbage collect/Why garbage collect.md",
     "33 - Atomic Notes/Atomic notes.md",
-    "55 - Schedule/A schedule for your classes.md",
     "orphaned files output.md",
     "files without tags.md",
     "broken links output.md",
     "create a link.md",
     "TODO.md",
-    "TERMINOLOGY.md",
     "XX - AI Slop/Some nasty AI summary.md",
     "00 - Daily Notes/2025-05-29.md",
     "99 - Attachments/Banners/IIHF Ice Hockey World Championship 2016.gif",

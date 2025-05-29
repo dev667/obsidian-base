@@ -4724,6 +4724,8 @@ Periodic
 Pretty
 Privacy
 Prettify
+Plugin
+Plugins
 obj
 ob
 okT
@@ -91657,6 +91659,7 @@ charts
 complex
 combining
 concept
+cMenu
 amhbac
 ae
 aq
@@ -176897,6 +176900,7 @@ RLeF
 RSr
 RQwR
 Rice
+Rediscover
 nT
 nV
 no
@@ -190748,6 +190752,7 @@ HjD
 Highlightr
 Hider
 Homepage
+Hide
 Ej
 Encoding
 Ee
@@ -195445,6 +195450,8 @@ Explorer
 Easy
 Editing
 Ease
+Export
+Example
 QxxL
 QY
 Qi
@@ -243059,6 +243066,7 @@ Osb
 ONiQ
 Outliner
 Omnisearch
+Organisation
 Jtk
 Jv
 Jd
@@ -252454,6 +252462,7 @@ Shows
 Schedule
 Start
 Some
+Steady
 Üf
 Übersicht
 Ü

@@ -2,6 +2,7 @@
 tags:
   - vaulthealth
 ---
+
 About this vault.
 
 This is a base setup to get started with Obsidian. It integrates well into a wide range of workflows, optimizes and prettifies the experience.
@@ -17,7 +18,7 @@ It also uses the Iconic extension to change the icons of your notes. See the [[T
 
 
 
-# Settings and plugins
+# Settings and Plugins
 
 ## Basic Extensions
 
@@ -50,18 +51,18 @@ Prettify the explorer:
 Ease of use:
 
 - Easy Typing (Word like syntax formatting)
-- ~~Highlightr~~ -> Editing Toolbar
+- ~~Highlightr, cMenu~~ -> Editing Toolbar
 - Image in editor: Shows images in source mode
 
 
-## Automation and organisation
+## Automation and Organisation
 
 - Auto Note Mover
 - Custom Attachment Location
 - Folder Links
 
 
-## Keep your vault clean and steady
+## Keep Your Vault Clean and Steady
 
 - Find orphaned files and broken links!!
 - Linter
@@ -70,7 +71,7 @@ Ease of use:
 - Homepage
 
 
-## Smarter plugins
+## Smarter Plugins
 
 - Templater
 - Periodic Notes
@@ -102,7 +103,7 @@ actions:
 
 Rice up your homepage with `Dataview`, `Tracker` and columns.
 
-### Tracker example:
+### Tracker Example:
 
 ``` tracker
 searchType: tag
