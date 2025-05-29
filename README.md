@@ -32,7 +32,7 @@ Improve built in tools:
 - Code Styler
 - Outliner
 - Admonitions
-- Natural Language Dates (create dates)
+- Natural Language Dates: easily create dates @Today
 - PDF++
 - Image Toolkit
 
@@ -43,13 +43,13 @@ Improve built in tools:
 Prettify the explorer:
 
 - File Explorer Note Count
-- Iconic (iconize the explorer)
-- File Color (colorize the explorer)
+- Iconic: add icons to the explorer
+- File Color: colorize the explorer
 
 
 Ease of use:
 
-- Easy Typing
+- Easy Typing (Word like syntax formatting)
 - ~~Highlightr~~ -> Editing Toolbar
 - Image in editor: Shows images in source mode
 
@@ -59,6 +59,15 @@ Ease of use:
 - Auto Note Mover
 - Custom Attachment Location
 - Folder Links
+
+
+## Keep your vault clean and steady
+
+- Find orphaned files and broken links
+- Linter
+- Smart Random Note
+- Hider
+- Homepage
 
 
 ## Smarter plugins
@@ -85,26 +94,6 @@ actions:
 ```
 
 
-## Keep your vault clean and steady
-
-- Find orphaned files and broken links
-- Linter
-- Smart Random Note
-- Hider
-- Homepage
-
-## Math
-
-- LaTeX Suit
-- Extended MathJax
-- Completr
-
-## Writing
-
-- Automatic Table Of Contents
-- Zotero Integration
-- Pretty BibTex
-
 ## Homepage
 
 - Homepage
@@ -126,6 +115,20 @@ bar:
     xAxisLabel: Date
     yAxisLabel: Value
 ```
+
+
+## Math
+
+- LaTeX Suit
+- Extended MathJax
+- Completr
+
+
+## Writing
+
+- Automatic Table Of Contents
+- Zotero Integration
+- Pretty BibTex
 
 
 ## Additional

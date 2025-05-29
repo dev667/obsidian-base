@@ -1,0 +1,39 @@
+{
+  "outputFileName": "orphaned files output",
+  "disableWorkingLinks": false,
+  "directoriesToIgnore": [
+    "77 - Templates/",
+    "00 - Daily Notes/"
+  ],
+  "filesToIgnore": [],
+  "fileTypesToIgnore": [],
+  "linksToIgnore": [],
+  "tagsToIgnore": [],
+  "fileTypesToDelete": [],
+  "ignoreFileTypes": true,
+  "ignoreDirectories": true,
+  "unresolvedLinksIgnoreDirectories": true,
+  "unresolvedLinksOutputFileName": "broken links output",
+  "unresolvedLinksDirectoriesToIgnore": [
+    "77 - Templates/",
+    "00 - Daily Notes/"
+  ],
+  "unresolvedLinksFilesToIgnore": [],
+  "unresolvedLinksFileTypesToIgnore": [],
+  "unresolvedLinksLinksToIgnore": [],
+  "unresolvedLinksTagsToIgnore": [],
+  "withoutTagsDirectoriesToIgnore": [
+    "77 - Templates/",
+    "00 - Daily Notes/"
+  ],
+  "withoutTagsFilesToIgnore": [],
+  "withoutTagsOutputFileName": "files without tags",
+  "emptyFilesOutputFileName": "empty files",
+  "emptyFilesDirectories": [
+    "77 - Templates/",
+    "00 - Daily Notes/"
+  ],
+  "emptyFilesFilesToIgnore": [],
+  "emptyFilesIgnoreDirectories": true,
+  "openOutputFile": true
+}

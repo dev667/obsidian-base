@@ -77,9 +77,127 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "81bf6bae67dcb399",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Why garbage collect",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"88 - Garbage collect/Why garbage collect.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Why garbage collect\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":61},\"to\":{\"line\":0,\"ch\":61}}}"
+                },
+                {
+                  "title": "empty files",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"empty files.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"empty files\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":28},\"to\":{\"line\":1,\"ch\":28}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "empty files.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "empty files"
+            }
+          },
+          {
+            "id": "ecb6d39c4a13d46a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "empty files",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"empty files.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"empty files\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":2},\"to\":{\"line\":0,\"ch\":2}}}"
+                },
+                {
+                  "title": "broken links output",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"broken links output.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"broken links output\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "files without tags",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"files without tags.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"files without tags\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "orphaned files output",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"orphaned files output.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"orphaned files output\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "empty files",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"empty files.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"empty files\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":2},\"to\":{\"line\":0,\"ch\":2}}}"
+                },
+                {
+                  "title": "broken links output",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"broken links output.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"broken links output\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "files without tags",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"files without tags.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"files without tags\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "orphaned files output",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"orphaned files output.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"orphaned files output\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "create a link",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"create a link.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"create a link\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "orphaned files output",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"orphaned files output.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"orphaned files output\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -328,14 +446,19 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d3b4df7fd79cb583",
+  "active": "ecb6d39c4a13d46a",
   "lastOpenFiles": [
-    "ROOT.md",
+    "empty files.md",
+    "orphaned files output.md",
+    "files without tags.md",
+    "broken links output.md",
+    "create a link.md",
+    "88 - Garbage collect/Why garbage collect.md",
     "README.md",
+    "ROOT.md",
     "TODO.md",
     "BIBLIOGRAPHY.md",
     "TERMINOLOGY.md",
-    "88 - Garbage collect/Where I collect stuff from outside my vault.md",
     "XX - AI Slop/Some nasty AI summary.md",
     "11 - Field Notes/Field Notes Concept.md",
     "33 - Atomic Notes/Atomic notes.md",
@@ -371,11 +494,6 @@
     "88 - Garbage collect",
     "XX - AI Slop",
     "Asymptote.md",
-    "Asymptotisch.md",
-    "Zahlenbereiche.md",
-    "Abelsche Gruppe.md",
-    "Vektoren.md",
-    "Definition Gruppe.md",
     "Untitled.canvas",
     "Test canvas.canvas"
   ]
