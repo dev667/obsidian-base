@@ -21,22 +21,37 @@ It also uses the Iconic extension to change the icons of your notes. See the [[T
 
 ## Basic Extensions
 
+
+Improve built in tools:
+
 - Settings Search
 - Auto Link Title
-- File Explorer Note Count
-- Iconic
-- File Color
-- Code Styler
-- Image Toolkit
-- PDF++
-- Natural Language Dates
-- Outliner
-- Easy Typing
-- Quick Switcher++
 - Advanced Canvas
 - Advanced Slides
-- Highlightr
-- CMenu
+- Advanced Tables
+- Code Styler
+- Outliner
+- Admonitions
+- Natural Language Dates (create dates)
+- PDF++
+- Image Toolkit
+
+- Quick Switcher++
+- Omnisearch
+
+
+Prettify the explorer:
+
+- File Explorer Note Count
+- Iconic (iconize the explorer)
+- File Color (colorize the explorer)
+
+
+Ease of use:
+
+- Easy Typing
+- ~~Highlightr~~ -> Editing Toolbar
+- Image in editor: Shows images in source mode
 
 
 ## Automation and organisation
@@ -46,7 +61,7 @@ It also uses the Iconic extension to change the icons of your notes. See the [[T
 - Folder Links
 
 
-## Smart plugins
+## Smarter plugins
 
 - Templater
 - Periodic Notes
@@ -70,24 +85,35 @@ actions:
 ```
 
 
-## Keep your vault clean
+## Keep your vault clean and steady
+
 - Find orphaned files and broken links
 - Linter
 - Smart Random Note
 - Hider
 - Homepage
-- Banners
 
 ## Math
+
 - LaTeX Suit
 - Extended MathJax
 - Completr
 
+## Writing
 
+- Automatic Table Of Contents
+- Zotero Integration
+- Pretty BibTex
 
-## Charts in your vault
+## Homepage
 
-Tracker
+- Homepage
+- Banners
+- Multi-Column Markdown
+
+Rice up your homepage with `Dataview`, `Tracker` and columns.
+
+### Tracker example:
 
 ``` tracker
 searchType: tag
@@ -102,20 +128,14 @@ bar:
 ```
 
 
+## Additional
 
-Charts
-```chart
-type: bar
-labels: [1, 2, 3, 4, 5]
-series:
-  - title: Berlin
-    data: [4, 17, 6, 20, 13]
-tension: 0.24
-width: 90%
-labelColors: true
-fill: true
-beginAtZero: false
-bestFit: false
-bestFitTitle: undefined
-bestFitNumber: 0
-```
+- Privacy Glasses (blur out content)
+- Style settings (good for styling??)
+- Charts (when you need to create charts in markdown)
+
+
+For task management:
+
+- Kanban
+- Tasks

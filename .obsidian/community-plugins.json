@@ -28,17 +28,19 @@
   "obsidian-image-toolkit",
   "obsidian-banners",
   "obsidian-tracker",
-  "obsidian-charts",
   "easy-typing-obsidian",
-  "cmenu-plugin",
   "find-unlinked-files",
   "file-explorer-note-count",
-  "multi-column-markdown",
   "pane-relief",
   "obsidian-excel-to-markdown-table",
   "obsidian-file-color",
   "code-styler",
   "smart-random-note",
   "obsidian-meta-bind-plugin",
-  "obsidian-outliner"
+  "obsidian-outliner",
+  "obsidian-dictionary-plugin",
+  "automatic-table-of-contents",
+  "omnisearch",
+  "obsidian-admonition",
+  "editing-toolbar"
 ]
