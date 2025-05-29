@@ -63,10 +63,10 @@ Ease of use:
 
 ## Keep your vault clean and steady
 
-- Find orphaned files and broken links
+- Find orphaned files and broken links!!
 - Linter
-- Smart Random Note
-- Hider
+- Random Note (Core Plugin: Alt + R) -> Rediscover your notes
+- Hider: Hide things from the GUI of Obsidian
 - Homepage
 
 
@@ -136,6 +136,7 @@ bar:
 - Privacy Glasses (blur out content)
 - Style settings (good for styling??)
 - Charts (when you need to create charts in markdown)
+- Export To Anki
 
 
 For task management:

@@ -10,7 +10,8 @@
   "weekly": {
     "format": "",
     "template": "",
-    "folder": ""
+    "folder": "",
+    "enabled": true
   },
   "monthly": {
     "format": "",

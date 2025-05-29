@@ -48,5 +48,22 @@
       ],
       "key": "O"
     }
+  ],
+  "templater-obsidian:replace-in-file-templater": [],
+  "smart-random-note:open-random-note": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "R"
+    }
+  ],
+  "random-note": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "R"
+    }
   ]
 }

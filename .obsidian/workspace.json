@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6fbeea5ab5b72181",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "edc108e49c2d7501",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -25,7 +25,7 @@
               "state": {
                 "file": "ROOT.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "pinned": true,
               "icon": "lucide-file",
@@ -33,53 +33,7 @@
             }
           },
           {
-            "id": "46e31b0e2b1287e1",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "d3b4df7fd79cb583",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "81bf6bae67dcb399",
+            "id": "620f0627f55d0e53",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -89,115 +43,26 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Why garbage collect",
+                  "title": "README",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"88 - Garbage collect/Why garbage collect.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Why garbage collect\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":61},\"to\":{\"line\":0,\"ch\":61}}}"
-                },
-                {
-                  "title": "empty files",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"empty files.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"empty files\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":28},\"to\":{\"line\":1,\"ch\":28}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"README\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":138,\"ch\":16},\"to\":{\"line\":138,\"ch\":16}},\"scroll\":0}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "empty files.md",
+                "file": "44 - Anki/Flashcards.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "empty files"
-            }
-          },
-          {
-            "id": "ecb6d39c4a13d46a",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "empty files",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"empty files.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"empty files\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":2},\"to\":{\"line\":0,\"ch\":2}}}"
-                },
-                {
-                  "title": "broken links output",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"broken links output.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"broken links output\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "files without tags",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"files without tags.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"files without tags\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "orphaned files output",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"orphaned files output.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"orphaned files output\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "empty files",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"empty files.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"empty files\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":2},\"to\":{\"line\":0,\"ch\":2}}}"
-                },
-                {
-                  "title": "broken links output",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"broken links output.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"broken links output\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "files without tags",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"files without tags.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"files without tags\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "orphaned files output",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"orphaned files output.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"orphaned files output\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "create a link",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"create a link.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"create a link\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "orphaned files output",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"orphaned files output.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"orphaned files output\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "README"
+              "title": "Flashcards"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -306,7 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "55 - Schedule/A schedule for your classes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -334,7 +199,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of README"
+              "title": "Graph of A schedule for your classes"
             }
           },
           {
@@ -352,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "55 - Schedule/A schedule for your classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -362,7 +227,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for A schedule for your classes"
             }
           },
           {
@@ -404,13 +269,36 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "55 - Schedule/A schedule for your classes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of A schedule for your classes"
+            }
+          },
+          {
+            "id": "4227d39b5be2121a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "55 - Schedule/A schedule for your classes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from A schedule for your classes"
             }
           }
         ],
@@ -441,32 +329,34 @@
       "darlal-switcher-plus:Open in Headings Mode": true,
       "darlal-switcher-plus:Open Symbols for the active editor": true,
       "smart-random-note:Open Random Note from Search": true,
-      "periodic-notes:Open today": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "ecb6d39c4a13d46a",
+  "active": "4cfa0ea2003e24ff",
   "lastOpenFiles": [
+    "README.md",
+    "ROOT.md",
+    "XX - Graveyard/Some note.md",
+    "BIBLIOGRAPHY.md",
+    "22 - Digital Notes/Some new notes.md",
+    "11 - Field Notes/Field Notes Concept.md",
+    "66 - Overview/Dataview Examples.md",
+    "77 - Templates/(Template) Daily Note.md",
     "empty files.md",
+    "44 - Anki/Flashcards.md",
+    "88 - Garbage collect/Why garbage collect.md",
+    "33 - Atomic Notes/Atomic notes.md",
+    "55 - Schedule/A schedule for your classes.md",
     "orphaned files output.md",
     "files without tags.md",
     "broken links output.md",
     "create a link.md",
-    "88 - Garbage collect/Why garbage collect.md",
-    "README.md",
-    "ROOT.md",
     "TODO.md",
-    "BIBLIOGRAPHY.md",
     "TERMINOLOGY.md",
     "XX - AI Slop/Some nasty AI summary.md",
-    "11 - Field Notes/Field Notes Concept.md",
-    "33 - Atomic Notes/Atomic notes.md",
-    "44 - Anki/Flashcards.md",
-    "55 - Schedule/A schedule for your classes.md",
     "00 - Daily Notes/2025-05-29.md",
-    "77 - Templates/(Template) Daily Note.md",
-    "66 - Overview/Dataview Examples.md",
     "99 - Attachments/Banners/IIHF Ice Hockey World Championship 2016.gif",
     "99 - Attachments/Banners/Halo_ Infinite - Reticles, Jeff Christy.gif",
     "99 - Attachments/Banners/TRIGGGER Motion.gif",
@@ -479,11 +369,9 @@
     "99 - Attachments/Banners/Halo Infinite Reticles - Jeff christy.gif",
     "99 - Attachments/Banners",
     "99 - Attachments/IIHF Ice Hockey World Championship 2016.gif.crdownload",
-    "22 - Digital Notes/Some new notes.md",
     "22 - Digital Notes/Example note.md",
     "99 - Attachments/IMAGES",
     "99 - Attachments 1",
-    "XX - Graveyard/Some note.md",
     "XX - Graveyard",
     "Hi.md",
     "test.md",
