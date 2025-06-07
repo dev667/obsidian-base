@@ -51,7 +51,7 @@ shortcuts:
 - `ctl + o`: open a file from Quick Switcher
 - `ctl + p`: open command palette
 
-- `ctl + ,`; open settings
+- `ctl + ,`: open settings
 - `esc`: close an opened window
 
 
