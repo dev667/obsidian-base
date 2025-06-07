@@ -43,16 +43,16 @@ git clone https://github.com/dev667/obsidian-base.git
 
 shortcuts:
 
-`ctl + arrowleft`: opens left side pane
-`ctl + arrowright`: opens right side pane
+- `ctl + arrowleft`: opens left side pane
+- `ctl + arrowright`: opens right side pane
 
-`alt + n`: new daily note
+- `alt + n`: new daily note
 
-`ctl + o`: open a file from Quick Switcher
-`ctl + p`: open command palette
+- `ctl + o`: open a file from Quick Switcher
+- `ctl + p`: open command palette
 
-`ctl + ,`; open settings
-`esc`: close an opened window
+- `ctl + ,`; open settings
+- `esc`: close an opened window
 
 
 
