@@ -34,7 +34,7 @@ git clone https://github.com/dev667/obsidian-base.git
 
 3. Drop the content of the cloned repository into your vault (with File Manager of your choice)
 
->[!]Note
+>
 >Do not forget the hidden directiory `.obsidian`. It contains the configuration and settings I made.
 
 
