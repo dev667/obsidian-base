@@ -20,6 +20,44 @@ It also uses the Iconic and File Color extension to change the icons and colors 
 
 
 
+# How to apply
+
+0. Install `Obsidian` (if not already installed)
+
+1. Clone this repository
+
+```bash
+git clone https://github.com/dev667/obsidian-base.git
+```
+
+2. Open Obsidian, create a new Vault and enable `community plugins`
+
+3. Drop the content of the cloned repository into your vault (with File Manager of your choice)
+
+>[!]Note
+>Do not forget the hidden directiory `.obsidian`. It contains the configuration and settings I made.
+
+
+
+# How to use
+
+Shortcuts:
+
+ctl + arrowleft: opens left side pane
+ctl + arrowright: opens right side pane
+
+alt + n: new daily note
+
+ctl + o: open a file from Quick Switcher
+ctl + p: open command palette
+
+ctl + ,; open settings
+esc: close an opened window
+
+
+
+
+
 # Settings and Plugins
 
 ## Basic Extensions
